@@ -1,1 +1,1 @@
-# simple_html_resume
+# simple-html-resume
